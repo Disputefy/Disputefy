@@ -1,6 +1,6 @@
 # ⚡ Disputefy
 
-![Disputefy Logo](https://disputefy.com/logo_header.png) <!-- replace with actual logo path -->
+![Disputefy Logo](https://disputefy.com/logo_header.png)
 
 **Disputefy** is a debate and discussion platform where users vote, argue, and decide on the internet’s biggest questions.  
 From sports and lifestyle to tech and entertainment, Disputefy lets anyone join the debate and see who wins.
@@ -32,8 +32,8 @@ Built with:
 ---
 
 ## 📢 Press Kit
-For logos, screenshots, and branding guidelines:  
-[https://disputefy.com/press](https://disputefy.com/press) <!-- create a simple page or Notion -->
+For logos, screenshots, and branding guidelines contact us:  
+[https://disputefy.com/press](https://disputefy.com/help)
 
 ---
 
